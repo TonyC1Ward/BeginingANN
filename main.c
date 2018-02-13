@@ -23,6 +23,7 @@ double Input[NUMPAT+1][NUMIN+1] = { {0, 0, 0},
                                     {0, 1, 0},
                                     {0, 0, 1},
                                     {0, 1, 1} };
+
 double Target[NUMPAT+1][NUMOUT+1] = {   {0, 0},
                                         {0, 0},
                                         {0, 1},
